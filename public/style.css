@@ -1,0 +1,10 @@
+.sfondo_img{
+    background-image: url(/2420e65a0474616a8470945775533f0f.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+}
