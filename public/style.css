@@ -8,3 +8,10 @@
     justify-content: center; 
     align-items: center; 
 }
+
+.icona{
+    color: blue;
+    box-shadow: 2px 2px 5px darkgray;
+    font-size: 30px;
+    margin-left: 10px;
+}
